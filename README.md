@@ -1,4 +1,4 @@
-## Upload Larges Files (Laravel 5.1 | jQuery)
+## Upload Larges Files (Laravel 5.1 | jQuery | jQuery Form | progress bar)
 
 Upload larges files (only ppt, pptx, pdf) with progress bar and submit button (laravel 5.1 + jQuery + Ajax)
 
